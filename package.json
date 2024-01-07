@@ -2,7 +2,7 @@
     "name": "@wnayes/electron-redux",
     "version": "2.0.0-alpha.10",
     "description": "Redux & Electron: Make sure all your stores are on the same page",
-    "repository": "https://github.com/klarna/electron-redux.git",
+    "repository": "github:wnayes/electron-redux",
     "authors": [
         "Burkhard Reffeling <burkhard.reffeling@klarna.com> (https://github.com/hardchor)",
         "McKayla Washburn <mckayla@hey.com> (https://github.com/partheseas)",
