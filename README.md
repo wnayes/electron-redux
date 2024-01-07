@@ -1,5 +1,9 @@
 🚧 THIS IS **ALPHA** version of the library - the API still might change 🚧
 
+`@wnayes/electron-redux` is a fork of `electron-redux` alpha that makes the following changes:
+
+-   Updates package.json to use standard `exports` conventions for esm/cjs dual modules.
+
 # electron-redux
 
 Electron-Redux is an Redux Store Enhancer that helps you loosely synchronize the redux stores in multiple electron processes.
