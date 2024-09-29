@@ -1,6 +1,6 @@
 {
     "name": "@wnayes/electron-redux",
-    "version": "2.0.0-alpha.10",
+    "version": "2.0.0-alpha.11",
     "description": "Redux & Electron: Make sure all your stores are on the same page",
     "repository": "github:wnayes/electron-redux",
     "authors": [

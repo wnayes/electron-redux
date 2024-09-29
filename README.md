@@ -2,7 +2,8 @@
 
 `@wnayes/electron-redux` is a fork of `electron-redux` alpha that makes the following changes:
 
--   Updates package.json to use standard `exports` conventions for esm/cjs dual modules.
+-   Updates package.json to use standard `exports` conventions for esm/cjs dual modules. (alpha.10)
+-   Removes lodash dependencies. (alpha.11)
 
 # electron-redux
 
