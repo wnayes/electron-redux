@@ -54,10 +54,7 @@
     "engines": {
         "node": ">= 12"
     },
-    "dependencies": {
-        "lodash.isplainobject": "^4.0.6",
-        "lodash.isstring": "^4.0.1"
-    },
+    "dependencies": {},
     "peerDependencies": {
         "electron": ">=8.0.0",
         "redux": ">=4.0.0"
@@ -70,8 +67,6 @@
         "@babel/preset-typescript": "^7.10.4",
         "@rollup/plugin-commonjs": "^15.0.0",
         "@types/jest": "^26.0.14",
-        "@types/lodash.isplainobject": "^4.0.6",
-        "@types/lodash.isstring": "^4.0.6",
         "@types/node": "^14.11.1",
         "@typescript-eslint/eslint-plugin": "^4.4.0",
         "@typescript-eslint/parser": "^4.4.0",
